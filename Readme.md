@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Kirill Bugaev](https://up.htmlacademy.ru/javascript/28/user/244468).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Кислый](https://htmlacademy.ru/profile/smart-grizzly).
 
 ---
 
